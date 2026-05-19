@@ -47,6 +47,6 @@ https://idnau.org
 Resource | Role | Description
 --- | --- | ---
 Catalogue Definition:<br />[`catalogue.ttl`](catalogue.ttl) | [Catalogue Data](https://prez.dev/ManifestResourceRoles/CatalogueData) | The definition of, and metadata for, the container which here is a schema:DataCatalog object
-Syncable Resource Data:<br />[`datasets/*.ttl`](datasets/*.ttl) | [Resource Data](https://prez.dev/ManifestResourceRoles/ResourceData) | schema:Dataset objects in RDF (Turtle) files in the datasets/ folder for syncing
+Syncable Resource Data:<br />[`resources/*.ttl`](resources/*.ttl) | [Resource Data](https://prez.dev/ManifestResourceRoles/ResourceData) | schema:CreativeWork objects in RDF (Turtle) files in the resources/ folder for syncing
 Profile Definition:<br />[`ogc_records_profile.ttl`](https://github.com/RDFLib/prez/blob/main/prez/reference_data/profiles/ogc_records_profile.ttl) | [Catalogue & Resource Model](https://prez.dev/ManifestResourceRoles/CatalogueAndResourceModel) | The default Prez profile for Records API
 Labels:<br />[`labels.ttl`](labels.ttl) | [Complete Catalogue and Resource Labels](https://prez.dev/ManifestResourceRoles/CompleteCatalogueAndResourceLabels) | An RDF file containing all the labels for the container content

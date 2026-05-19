@@ -46,7 +46,7 @@ These agencies are also the members of the PLIDA Board, which is responsible for
     Finance
     Treasury
     Department of Employment & Workplace Relations (DEWR)
-The Person Linkage Spine allows the ABS to link datasets through a spine of key information, separate from the main body of data. This approach improves privacy and security and enables more efficient and higher quality linkage. The Spine supports the regular maintenance and expansion of PLIDA.
+The Person Linkage Spine allows the ABS to link resources through a spine of key information, separate from the main body of data. This approach improves privacy and security and enables more efficient and higher quality linkage. The Spine supports the regular maintenance and expansion of PLIDA.
 """ ;
     schema:distribution
         [

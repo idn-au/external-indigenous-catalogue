@@ -14,9 +14,9 @@ PREFIX schema: <https://schema.org/>
             schema:name "Catalogue Definition" ;
         ] ,
         [
-            prof:hasArtifact "datasets/*.ttl" ;
+            prof:hasArtifact "resources/*.ttl" ;
             prof:hasRole mrr:ResourceData ;
-            schema:description "schema:Dataset objects in RDF (Turtle) files in the datasets/ folder for syncing" ;
+            schema:description "schema:CreativeWork objects in RDF (Turtle) files in the resources/ folder for syncing" ;
             schema:name "Syncable Resource Data" ;
 #            dcterms:conformsTo <https://data.idnau.org/pid/cp/validator> ;
         ] ,

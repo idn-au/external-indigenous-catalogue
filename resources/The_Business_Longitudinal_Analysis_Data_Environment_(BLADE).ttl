@@ -51,7 +51,7 @@ The current BLADE asset contains data on all active businesses from 2001-02 to c
             schema:description """Business Longitudinal Analysis Data Environment (BLADE) data is used to study how businesses fare over time and the factors that drive performance, innovation, job creation, competitiveness and productivity. As the ABS is an Accredited Integrating Authority, additional data sources can be integrated to BLADE for approved projects and subject to agreement from data custodians.
 BLADE information is protected by the Census and Statistics Act 1905, which requires the ABS to maintain the confidentiality of information collected under the Act. This legal requirement to protect confidentiality also applies for analysts authorised by the ABS to access BLADE microdata.
 Data in BLADE
-Data is provided in accordance with the requirements for approved projects. BLADE contains data items from the following datasets:
+Data is provided in accordance with the requirements for approved projects. BLADE contains data items from the following resources:
 BLADE Standard:
 •	Indicative data items (e.g. State, ANZSIC): 2001-02 to present
 •	Agricultural Indicative data items: 2010-11 to 2020-21
